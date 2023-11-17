@@ -1,7 +1,7 @@
 #include<stdio.h>
 
 int main(void){
-    printf("Hello World!\n");
-    printf("KITAGAWA\n");
+    //printf("%d円見つけた\n",10);
+    printf("%d+%d=%d\n",1000,2000,3000);
     return 0;
     }
